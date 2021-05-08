@@ -23,6 +23,7 @@
 
 - [Face Recognition Using KNN and Haarcascade Classifier](https://github.com/lakkshh/Face-Recognition-Using-KNN)
 - [Face Filters Using OpenCV](https://github.com/lakkshh/Face-Filters-Using-OpenCV)
+- [Comparitive Study on Sentiment Analysis Algorithms](https://github.com/lakkshh/Comparitive-Study-on-Sentiment-Analysis-Algorithms)
 - [Handwritten Digit Recognition Using KNN](https://github.com/lakkshh/Handwritten-Digit-Recognition)
 - [Dominant Color Extraction Using KMeans](https://github.com/lakkshh/Dominant-Color-Extraction-Using-KMeans)
 - [Diabetes Classification Using KNN](https://github.com/lakkshh/Diabetes-Classification-Using-KNN)
