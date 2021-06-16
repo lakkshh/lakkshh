@@ -21,6 +21,7 @@
 
 ### 📕 Latest Projects
 
+- [Face Recognition Using CNN and Triplet Loss](https://github.com/lakkshh/Face-Recognition-Using-Triplet-Loss)
 - [Face Recognition Using KNN and Haarcascade Classifier](https://github.com/lakkshh/Face-Recognition-Using-KNN)
 - [Face Filters Using OpenCV](https://github.com/lakkshh/Face-Filters-Using-OpenCV)
 - [Comparitive Study on Sentiment Analysis Algorithms](https://github.com/lakkshh/Comparitive-Study-on-Sentiment-Analysis-Algorithms)
